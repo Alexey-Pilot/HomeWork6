@@ -1,0 +1,15 @@
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\obj\Debug\net6.0\ex43.csproj.AssemblyReference.cache
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\obj\Debug\net6.0\ex43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\obj\Debug\net6.0\ex43.AssemblyInfoInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\obj\Debug\net6.0\ex43.AssemblyInfo.cs
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\obj\Debug\net6.0\ex43.csproj.CoreCompileInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\bin\Debug\net6.0\ex43.exe
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\bin\Debug\net6.0\ex43.deps.json
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\bin\Debug\net6.0\ex43.runtimeconfig.json
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\bin\Debug\net6.0\ex43.dll
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\bin\Debug\net6.0\ex43.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\obj\Debug\net6.0\ex43.dll
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\obj\Debug\net6.0\refint\ex43.dll
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\obj\Debug\net6.0\ex43.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\obj\Debug\net6.0\ex43.genruntimeconfig.cache
+C:\Users\alexr\OneDrive\Рабочий стол\дз\HomeWork6\HomeWork6\ex43\obj\Debug\net6.0\ref\ex43.dll
